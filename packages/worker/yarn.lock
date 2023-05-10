@@ -295,10 +295,10 @@
   resolved "https://registry.yarnpkg.com/@bcoe/v8-coverage/-/v8-coverage-0.2.3.tgz#75a2e8b51cb758a7553d6804a5932d7aace75c39"
   integrity sha512-0hYQ8SB4Db5zvZB4axdMHGwEaQjkZzFjQiN9LVYvIFB2nSUHW9tYpxWriPrWDASIxiaXax83REcLxuSdnGPZtw==
 
-"@budibase/auth@^0.9.185-alpha.9":
-  version "0.9.188"
-  resolved "https://registry.yarnpkg.com/@budibase/auth/-/auth-0.9.188.tgz#82df2fc6e6e3100679a19ced8bab6fe6625f8744"
-  integrity sha512-U/7MfxbSrsQGGFyTdAicPDafxGeR8zsuh0I17ZujcIiZUoi1eWbLz4/ODITlTj9zxiXojMf+/u68YAF1ABdxDw==
+"@budibase/auth@^0.9.185-alpha.10":
+  version "0.9.190"
+  resolved "https://registry.yarnpkg.com/@budibase/auth/-/auth-0.9.190.tgz#9484362bc25638033fe16e82298af721ce1b9d9d"
+  integrity sha512-/T7hiWE2vxO3YLXdzJihc32M5DzmHAK/87rV+ewhQkh2GmnZNRUvEjD5voaYEMWTa0ay+3T/6yFr2Rrjrjy6zw==
   dependencies:
     "@techpass/passport-openidconnect" "^0.3.0"
     aws-sdk "^2.901.0"
@@ -346,10 +346,10 @@
     to-gfm-code-block "^0.1.1"
     year "^0.2.1"
 
-"@budibase/string-templates@^0.9.185-alpha.9":
-  version "0.9.188"
-  resolved "https://registry.yarnpkg.com/@budibase/string-templates/-/string-templates-0.9.188.tgz#f37836ed23dbd2217cb157030ada7cd59f6a2165"
-  integrity sha512-O/bL0I5OJO9W2OizIe9vBHowCLwwASPBrsGiAIB8L0x6AivYMq8j1mvNRwLXZjpHTjv86bU/LyG/3CP837oDsg==
+"@budibase/string-templates@^0.9.185-alpha.10":
+  version "0.9.190"
+  resolved "https://registry.yarnpkg.com/@budibase/string-templates/-/string-templates-0.9.190.tgz#47973461cf2b465db59568242b6524cebba0d535"
+  integrity sha512-OwwIwR2Z3N23Z1rQmT0+Wh+jbljJNYSu5jqQabEYCrzWvknqPUUqmMFS8PMRbUSPFI32aO2DXER/Q4OMH07nrQ==
   dependencies:
     "@budibase/handlebars-helpers" "^0.11.7"
     dayjs "^1.10.4"
@@ -4388,9 +4388,9 @@ mimic-response@^3.1.0:
     brace-expansion "^1.1.7"
 
 minimist@^1.1.1, minimist@^1.2.0, minimist@^1.2.5:
-  version "1.2.5"
-  resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.5.tgz#67d66014b66a6a8aaa0c083c5fd58df4e4e97602"
-  integrity sha512-FM9nNUYrRBAELZQT3xeZQ7fmMOBg6nWNmJKTcgsJeaLstP/UODVpGsr5OhXhhXg6f+qtJ8uiZ+PUxkDWcgIXLw==
+  version "1.2.8"
+  resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.8.tgz#c1a464e7693302e082a075cee0c057741ac4772c"
+  integrity sha512-2yyAR8qBkN3YuheJanUpWC5U3bb5osDywNB8RzDVlDwDHbocAJveqqj1u8+SVD7jkWT4yvsHCpWqqWqAxb0zCA==
 
 mixin-deep@^1.2.0:
   version "1.3.2"
