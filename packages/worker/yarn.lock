@@ -295,10 +295,10 @@
   resolved "https://registry.yarnpkg.com/@bcoe/v8-coverage/-/v8-coverage-0.2.3.tgz#75a2e8b51cb758a7553d6804a5932d7aace75c39"
   integrity sha512-0hYQ8SB4Db5zvZB4axdMHGwEaQjkZzFjQiN9LVYvIFB2nSUHW9tYpxWriPrWDASIxiaXax83REcLxuSdnGPZtw==
 
-"@budibase/auth@^0.9.185-alpha.9":
-  version "0.9.188"
-  resolved "https://registry.yarnpkg.com/@budibase/auth/-/auth-0.9.188.tgz#82df2fc6e6e3100679a19ced8bab6fe6625f8744"
-  integrity sha512-U/7MfxbSrsQGGFyTdAicPDafxGeR8zsuh0I17ZujcIiZUoi1eWbLz4/ODITlTj9zxiXojMf+/u68YAF1ABdxDw==
+"@budibase/auth@^0.9.185-alpha.10":
+  version "0.9.190"
+  resolved "https://registry.yarnpkg.com/@budibase/auth/-/auth-0.9.190.tgz#9484362bc25638033fe16e82298af721ce1b9d9d"
+  integrity sha512-/T7hiWE2vxO3YLXdzJihc32M5DzmHAK/87rV+ewhQkh2GmnZNRUvEjD5voaYEMWTa0ay+3T/6yFr2Rrjrjy6zw==
   dependencies:
     "@techpass/passport-openidconnect" "^0.3.0"
     aws-sdk "^2.901.0"
@@ -346,10 +346,10 @@
     to-gfm-code-block "^0.1.1"
     year "^0.2.1"
 
-"@budibase/string-templates@^0.9.185-alpha.9":
-  version "0.9.188"
-  resolved "https://registry.yarnpkg.com/@budibase/string-templates/-/string-templates-0.9.188.tgz#f37836ed23dbd2217cb157030ada7cd59f6a2165"
-  integrity sha512-O/bL0I5OJO9W2OizIe9vBHowCLwwASPBrsGiAIB8L0x6AivYMq8j1mvNRwLXZjpHTjv86bU/LyG/3CP837oDsg==
+"@budibase/string-templates@^0.9.185-alpha.10":
+  version "0.9.190"
+  resolved "https://registry.yarnpkg.com/@budibase/string-templates/-/string-templates-0.9.190.tgz#47973461cf2b465db59568242b6524cebba0d535"
+  integrity sha512-OwwIwR2Z3N23Z1rQmT0+Wh+jbljJNYSu5jqQabEYCrzWvknqPUUqmMFS8PMRbUSPFI32aO2DXER/Q4OMH07nrQ==
   dependencies:
     "@budibase/handlebars-helpers" "^0.11.7"
     dayjs "^1.10.4"
@@ -6520,9 +6520,9 @@ widest-line@^3.1.0:
     string-width "^4.0.0"
 
 word-wrap@~1.2.3:
-  version "1.2.3"
-  resolved "https://registry.yarnpkg.com/word-wrap/-/word-wrap-1.2.3.tgz#610636f6b1f703891bd34771ccb17fb93b47079c"
-  integrity sha512-Hz/mrNwitNRh/HUAtM/VT/5VH+ygD6DV7mYKZAtHOrbs8U7lvPS6xf7EJKMF0uW1KJCl0H701g3ZGus+muE5vQ==
+  version "1.2.4"
+  resolved "https://registry.yarnpkg.com/word-wrap/-/word-wrap-1.2.4.tgz#cb4b50ec9aca570abd1f52f33cd45b6c61739a9f"
+  integrity sha512-2V81OA4ugVo5pRo46hAoD2ivUJx8jXmWXfUkY4KFNw0hEptvN0QfH3K4nHiwzGeKl5rFKedV48QVoqYavy4YpA==
 
 wordwrap@^1.0.0:
   version "1.0.0"
